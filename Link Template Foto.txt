@@ -1,0 +1,11 @@
+API Template Produk
+Produk 1: https://storage.googleapis.com/capstone-project-406403/template-produk/produk-1.png
+Produk 2: https://storage.googleapis.com/capstone-project-406403/template-produk/produk-2.png
+Produk 3: https://storage.googleapis.com/capstone-project-406403/template-produk/produk-3.png
+Produk 4: https://storage.googleapis.com/capstone-project-406403/template-produk/produk-4.png
+Produk 5: https://storage.googleapis.com/capstone-project-406403/template-produk/produk-5.png
+Produk 6: https://storage.googleapis.com/capstone-project-406403/template-produk/produk-6.png
+Produk 7: https://storage.googleapis.com/capstone-project-406403/template-produk/produk-7.png
+Produk 8: https://storage.googleapis.com/capstone-project-406403/template-produk/produk-8.png
+Produk 9: https://storage.googleapis.com/capstone-project-406403/template-produk/produk-9.png
+Produk 10: https://storage.googleapis.com/capstone-project-406403/template-produk/produk-10.png
