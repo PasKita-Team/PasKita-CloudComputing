@@ -1,6 +1,6 @@
 ## How to Install 🔧
 git clone https://github.com/PasKita-Team/PasKita-CloudComputing.git
-git clone https://github.com/PasKita-Team/API-Templategenerate.git
+git clone https://github.com/PasKita-Team/TemplateAPI.git
 
 ## Developers 👷‍♀
 This project developed by:
