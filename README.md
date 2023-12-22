@@ -4,7 +4,7 @@ Clone this repository
 git clone https://github.com/PasKita-Team/PasKita-CloudComputing.git
 ```
 ```bash
-git clone https://github.com/PasKita-Team/API-Templategenerate.git
+git clone https://github.com/PasKita-Team/apiTemplate.git
 ```
 
 ## Developers👷‍♀
